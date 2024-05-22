@@ -10,7 +10,7 @@ Este projeto foi desenvolvido para analisar um conjunto de dados contendo inform
 
 Cada uma dessas partes é essencial para fornecer uma visão completa e abrangente dos dados analisados, garantindo que as decisões tomadas sejam bem informadas e fundamentadas em insights sólidos.
 
-Acesse as páginas específicas para mais detalhes:
+**Acesse as páginas específicas para mais detalhes:**
 
 - [Daron Analytics Case - Dados de Vendas](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/%5BDaron_Analytics%5D%20Case%20-%20Dados%20de%20Vendas.ipynb)
 - [Raciocínio e Escolhas](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/Raciocínio%20e%20Escolhas.md)
