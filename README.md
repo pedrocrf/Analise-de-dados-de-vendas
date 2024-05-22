@@ -12,7 +12,7 @@ Cada uma dessas partes é essencial para fornecer uma visão completa e abrangen
 
 Acesse as páginas específicas para mais detalhes:
 
-- [Daron Analytics Case - Dados de Vendas](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/%5BDaron_Analytics%5D_Case_Dados_de_Vendas.ipynb)
+- [Daron Analytics Case - Dados de Vendas](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/%5BDaron_Analytics%5D%20Case%20-%20Dados%20de%20Vendas.ipynb)
 - [Raciocínio e Escolhas](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/Raciocínio%20e%20Escolhas.md)
 - [Conclusão](https://github.com/pedrocrf/Analise-de-dados-de-vendas/blob/main/Conclusão.md)
 
