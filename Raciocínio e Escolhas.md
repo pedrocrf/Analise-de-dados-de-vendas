@@ -5,6 +5,8 @@ Este documento detalha as razões por trás da escolha de cada tópico na análi
 ## Importar Bibliotecas, Carregar Dados e Configurar Bibliotecas de Gráficos
 **Razão da Escolha**: 
 Configurar o ambiente é o primeiro passo em qualquer análise. Importar as bibliotecas corretas, carregar os dados e configurar a aparência dos gráficos permite que as próximas etapas de análise sejam realizadas de maneira eficiente e organizada.
+A combinação de `pandas`, `matplotlib` e `seaborn` permite uma análise de dados completa: `pandas` é usado para manipulação e análise de dados, `matplotlib` para criar visualizações básicas e altamente customizáveis, e `seaborn` para simplificar a criação de gráficos estatísticos e melhorar a estética das visualizações.
+
 
 ## Verificar e Limpar a Coluna de Data
 **Importância**: 
@@ -43,8 +45,14 @@ Identificar correlações entre variáveis (como preço e quantidade vendida) po
 Inicialmente, entender a frequência dos produtos vendidos em cada região pode ajudar a verificar padrões de consumo regional.
 
 ## Inferir Regiões Ausentes com Base na Frequência dos Produtos
-**Importância**: 
-Preencher valores ausentes com base na frequência dos produtos em outras regiões ajuda a completar os dados e a obter uma visão mais completa e precisa das vendas por região.
+**Por que foi escolhido inferir as regiões ausentes?**
+
+- **Mantém a integridade dos dados** ao evitar a remoção de informações valiosas.
+- **Baseia-se em padrões observados**, tornando a inferência mais lógica e precisa.
+- **Reduz o viés** que pode ser introduzido por métodos de imputação arbitrários.
+- **Facilita análises geográficas mais completas e significativas**.
+
+Essa abordagem melhora a qualidade dos dados e, consequentemente, a precisão e a relevância das análises realizadas.
 
 ## Análise de Desempenho ao Longo do Tempo por Categoria
 **Importância**: 
