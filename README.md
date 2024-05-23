@@ -1,4 +1,4 @@
-# Case - Daron Analytics
+# Case - Dados de Vendas
 
 Este projeto foi desenvolvido para analisar um conjunto de dados contendo informações sobre as vendas dos últimos dois anos. O principal objetivo é entender as tendências de vendas, identificar problemas e encontrar oportunidades de crescimento. O projeto está dividido em quatro partes principais:
 
