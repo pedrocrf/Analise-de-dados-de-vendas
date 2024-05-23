@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido para analisar um conjunto de dados contendo informações sobre as vendas dos últimos dois anos. O principal objetivo é entender as tendências de vendas, identificar problemas e encontrar oportunidades de crescimento. O projeto está dividido em quatro partes principais:
 
 ## Anotações
-Nesta página, compartilho minhas anotações feitas ao longo do desenvolvimento do projeto. Essas anotações foram essenciais para o gerenciamento e aprendizado contínuo durante o desenvolvimento da análise. Utilizei-as para registrar o que estava fazendo, esclarecer dúvidas e manter um registro detalhado de cada etapa do processo. São explicações detalhadas de cada tópico da análise de vendas, fornecendo um passo a passo sobre a lógica e implementação de cada parte do projeto. Esta seção é ideal para quem está começando e deseja aprender o processo de análise de dados de vendas de maneira prática e estruturada.
+Nesta página, compartilho minhas anotações feitas ao longo do desenvolvimento do projeto. Essas anotações foram essenciais para o gerenciamento e aprendizado contínuo durante o desenvolvimento da análise. Utilizei-as para registrar o que estava fazendo, esclarecer dúvidas e manter um registro detalhado de cada etapa do processo.
 
 ## Daron Analytics Case - Dados de Vendas
 Esta página contém o programa completo que criei para a análise dos dados de vendas. Ele inclui importação e limpeza de dados, análise de tendências, sazonalidade, desempenho por produto e região, entre outras análises importantes.
